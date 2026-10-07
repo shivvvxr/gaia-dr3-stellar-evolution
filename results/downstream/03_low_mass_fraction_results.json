@@ -1,0 +1,24 @@
+{
+  "low_component_mean_mass": 1.3230859228075789,
+  "high_component_mean_mass": 2.830384314049444,
+  "low_component_weight": 0.2404818829309313,
+  "high_component_weight": 0.7595181170690686,
+  "early_fraction": 0.10646629068431036,
+  "late_fraction": 0.7942024068141111,
+  "early_bootstrap": {
+    "observed": 0.10646629068431036,
+    "median": 0.10630972492122852,
+    "q025": 0.0885231383432104,
+    "q975": 0.12503116547938725,
+    "valid_bootstrap_samples": 5000
+  },
+  "late_bootstrap": {
+    "observed": 0.7942024068141111,
+    "median": 0.7951937330567038,
+    "q025": 0.746770824074085,
+    "q975": 0.8365816274132278,
+    "valid_bootstrap_samples": 5000
+  },
+  "late_minus_early": 0.6877361161298008,
+  "interpretation_note": "Fractions are posterior averages from a two-component statistical GMM fitted to FLAME mass estimates. They are not direct estimates of a physically defined stellar population fraction."
+}

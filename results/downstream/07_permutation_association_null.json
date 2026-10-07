@@ -1,0 +1,10 @@
+{
+  "N": 1399,
+  "N_permutations": 5000,
+  "observed_rho": -0.36094284923918657,
+  "permutation_median": -5.286981562373324e-05,
+  "permutation_q025": -0.05166046937713065,
+  "permutation_q975": 0.05095793893882007,
+  "two_sided_empirical_p": 0.0001999600079984003,
+  "interpretation": "Association null only; not a physical no-mass-loss stellar-evolution model."
+}

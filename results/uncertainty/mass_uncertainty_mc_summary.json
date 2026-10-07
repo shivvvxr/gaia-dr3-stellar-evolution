@@ -1,0 +1,19 @@
+{
+  "N": 1399,
+  "MC_N": 5000,
+  "seed": 42,
+  "rho_point": -0.3609428492391866,
+  "rho_mc_median": -0.3596182669896337,
+  "rho_mc_q025": -0.36688841780692,
+  "rho_mc_q975": -0.35086578732293033,
+  "delta_point": 1.3821162,
+  "delta_mc_median": 1.420262434565788,
+  "delta_mc_q025": 1.3983525416284162,
+  "delta_mc_q975": 1.4425745702411574,
+  "low_fraction_point": 0.2375936604808134,
+  "low_fraction_mc_median": 0.2326989158037539,
+  "low_fraction_mc_q025": 0.22592548179889974,
+  "low_fraction_mc_q975": 0.23887856846318067,
+  "median_relative_halfwidth": 0.030522446773587175,
+  "q95_relative_halfwidth": 0.08410306396959359
+}

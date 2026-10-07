@@ -1,0 +1,24 @@
+{
+  "N": 1399,
+  "rho": -0.3609428492391866,
+  "rho_p_value": 2.669431755715034e-44,
+  "rho_bootstrap": {
+    "observed": -0.3609428492391866,
+    "median": -0.36133963987350876,
+    "q025": -0.41445473887708756,
+    "q975": -0.30521650264197664,
+    "valid_bootstrap_samples": 5000
+  },
+  "early_N": 861,
+  "late_N": 131,
+  "early_median_mass": 2.7033858,
+  "late_median_mass": 1.3212696,
+  "delta_early_minus_late": {
+    "observed": 1.3821162,
+    "median": 1.3895327000000002,
+    "q025": 1.3670952150000002,
+    "q975": 1.4992789249999998,
+    "valid_bootstrap_samples": 5000
+  },
+  "interpretation_note": "This is an association among FLAME-derived quantities. It is not an independent measurement of stellar mass loss."
+}

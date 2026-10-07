@@ -1,0 +1,175 @@
+{
+  "analysis_name": "Post-FLAME-uncertainty downstream analysis",
+  "seed": 42,
+  "bootstrap_realizations": 5000,
+  "permutation_realizations": 5000,
+  "N_raw": 9974,
+  "N_primary": 1399,
+  "primary_stage_range": [
+    490,
+    890
+  ],
+  "primary_stage_interval_convention": "[STAGE_MIN, STAGE_MAX)",
+  "global_stage_mass_rho": -0.3609428492391866,
+  "global_stage_mass_p": 2.669431755715034e-44,
+  "global_stage_mass_bootstrap": {
+    "observed": -0.3609428492391866,
+    "median": -0.36133963987350876,
+    "q025": -0.41445473887708756,
+    "q975": -0.30521650264197664,
+    "valid_bootstrap_samples": 5000
+  },
+  "early_N": 861,
+  "late_N": 131,
+  "early_median_mass": 2.7033858,
+  "late_median_mass": 1.3212696,
+  "early_late_delta": {
+    "observed": 1.3821162,
+    "median": 1.3895327000000002,
+    "q025": 1.3670952150000002,
+    "q975": 1.4992789249999998,
+    "valid_bootstrap_samples": 5000
+  },
+  "gmm_bic_selected_k": 3,
+  "gmm_two_component_analysis_k": 2,
+  "gmm_two_component_is_bic_best": false,
+  "gmm_low_component_mean_mass": 1.3230859228075789,
+  "gmm_high_component_mean_mass": 2.830384314049444,
+  "gmm_low_component_weight": 0.2404818829309313,
+  "gmm_high_component_weight": 0.7595181170690686,
+  "gmm_low_fraction_early": 0.10646629068431036,
+  "gmm_low_fraction_late": 0.7942024068141111,
+  "gmm_low_fraction_change": 0.6877361161298008,
+  "partial_spearman_controlling_metallicity": {
+    "N": 1399,
+    "rho_partial": -0.36357263501968523,
+    "p_value": 5.727999971799917e-45
+  },
+  "permutation_association_null": {
+    "N": 1399,
+    "N_permutations": 5000,
+    "observed_rho": -0.36094284923918657,
+    "permutation_median": -5.286981562373324e-05,
+    "permutation_q025": -0.05166046937713065,
+    "permutation_q975": 0.05095793893882007,
+    "two_sided_empirical_p": 0.0001999600079984003,
+    "interpretation": "Association null only; not a physical no-mass-loss stellar-evolution model."
+  },
+  "distance_sensitivity": [
+    {
+      "distance_cut_kpc": 0.5,
+      "N": 24,
+      "rho_stage_mass": -0.6227440895203944,
+      "p_value": 0.0011536331745738717,
+      "median_mass": 1.9352496000000001
+    },
+    {
+      "distance_cut_kpc": 1.0,
+      "N": 112,
+      "rho_stage_mass": -0.33395483951260535,
+      "p_value": 0.0003200820712031957,
+      "median_mass": 1.750368
+    },
+    {
+      "distance_cut_kpc": 2.0,
+      "N": 458,
+      "rho_stage_mass": -0.33412224991405554,
+      "p_value": 2.0874667348541932e-13,
+      "median_mass": 2.15269315
+    },
+    {
+      "distance_cut_kpc": 3.0,
+      "N": 902,
+      "rho_stage_mass": -0.40805391425916976,
+      "p_value": 1.6491104769608526e-37,
+      "median_mass": 2.4544157
+    },
+    {
+      "distance_cut_kpc": 4.0,
+      "N": 1196,
+      "rho_stage_mass": -0.41003559665752426,
+      "p_value": 1.0522291138979636e-49,
+      "median_mass": 2.5044874000000004
+    }
+  ],
+  "quality_cut_sensitivity": [
+    {
+      "test": "primary",
+      "N": 1399,
+      "rho": -0.3609428492391866,
+      "p_value": 2.669431755715034e-44,
+      "median_mass": 2.601431
+    },
+    {
+      "test": "RUWE_lt_1.4",
+      "N": 1347,
+      "rho": -0.36588007502876346,
+      "p_value": 6.27071678541127e-44,
+      "median_mass": 2.6018496
+    },
+    {
+      "test": "RUWE_lt_1.2",
+      "N": 1285,
+      "rho": -0.3658407200321395,
+      "p_value": 5.6450607095553024e-42,
+      "median_mass": 2.601431
+    },
+    {
+      "test": "parallax_SNR_gt_20",
+      "N": 778,
+      "rho": -0.3832714333094211,
+      "p_value": 1.2553097492286737e-28,
+      "median_mass": 2.5975735
+    },
+    {
+      "test": "RUWE_lt_1.4_and_SNR_gt_20",
+      "N": 747,
+      "rho": -0.37838107595225434,
+      "p_value": 7.712833547234317e-27,
+      "median_mass": 2.600986
+    },
+    {
+      "test": "mass_1_to_5",
+      "N": 1371,
+      "rho": -0.3760820667489243,
+      "p_value": 2.650171889335103e-47,
+      "median_mass": 2.6012564
+    },
+    {
+      "test": "mass_1st_to_99th_percentile",
+      "N": 1371,
+      "rho": -0.37148956316395254,
+      "p_value": 4.1203006880692165e-46,
+      "median_mass": 2.601431
+    },
+    {
+      "test": "G_lt_14",
+      "N": 881,
+      "rho": -0.2582025514267853,
+      "p_value": 6.950102625287737e-15,
+      "median_mass": 2.7033858
+    },
+    {
+      "test": "G_lt_13",
+      "N": 432,
+      "rho": -0.13192537992961434,
+      "p_value": 0.00603111640525972,
+      "median_mass": 2.80316615
+    }
+  ],
+  "simple_regression": {
+    "N": 1399,
+    "intercept": 4.466339891199654,
+    "slope": -0.0034652540019835063,
+    "R2": 0.1306389079940795,
+    "residual_skewness": 1.2638192525322345,
+    "residual_excess_kurtosis": 3.996177793956808,
+    "interpretation_note": "Diagnostic linear fit only. It is not used as the primary inference because the stage-mass relation need not be linear."
+  },
+  "mass_luminosity_rho": 0.895732038045039,
+  "mass_luminosity_p": 0.0,
+  "physical_null_model": {
+    "performed": false,
+    "description": "No physical no-mass-loss stellar-evolution null was constructed. The permutation analysis is an association null only."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "N": 1399,
+  "intercept": 4.466339891199654,
+  "slope": -0.0034652540019835063,
+  "R2": 0.1306389079940795,
+  "residual_skewness": 1.2638192525322345,
+  "residual_excess_kurtosis": 3.996177793956808,
+  "interpretation_note": "Diagnostic linear fit only. It is not used as the primary inference because the stage-mass relation need not be linear."
+}

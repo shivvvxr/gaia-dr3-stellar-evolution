@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Investigating FLAME-Inferred Stellar Mass and Evolutionary Stage in a Gaia DR3 Giant-Branch Population"
+message: "If you use the software or derived analysis materials, please cite this work."
+type: software
+authors:
+  - family-names: "Shrivastava"
+    given-names: "Shivansh Ranjan"
+version: "1.0.0"
+date-released: "2026-10-07"
+license: "MIT"
+keywords:
+  - Gaia DR3
+  - FLAME
+  - stellar evolution
+  - stellar masses
+  - evolutionary stage
+  - Gaussian mixture models
+
+# Add `repository-code:` after the GitHub repository has been created.
+# Add a `doi:` field after a Zenodo release has minted the permanent DOI.
