@@ -1,0 +1,18 @@
+{
+  "python_environment": "3.13.5",
+  "uncertainty_regenerated_n": 5000,
+  "uncertainty_method": "asymmetric Gaussian with 0.05 M_sun floor",
+  "uncertainty_floor_msun": 0.05,
+  "rho_median": -0.3596182669896337,
+  "rho_95": [
+    -0.36688841780692,
+    -0.35086578732293033
+  ],
+  "delta_median_msun": 1.420262434565788,
+  "delta_95_msun": [
+    1.3983525416284162,
+    1.4425745702411574
+  ],
+  "reported_paper_rounding_matches": true,
+  "uncertainty_method_matches_archived_results": true
+}

@@ -1,0 +1,197 @@
+{
+  "pdf_a": "/mnt/data/final_research_paper_fixed.pdf",
+  "pdf_b": "paper/final_research_paper.pdf",
+  "dpi": 120,
+  "engine": "pdftoppm",
+  "pages_a": 20,
+  "pages_b": 20,
+  "changed_pages": 1,
+  "per_page": [
+    {
+      "page": 1,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-01.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-01.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 2,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-02.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-02.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 3,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-03.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-03.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 4,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-04.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-04.png",
+      "changed": true,
+      "pct_changed": 0.03688067182528411,
+      "bbox": [
+        120,
+        342,
+        912,
+        478
+      ],
+      "max_channel": 255,
+      "diff": "/mnt/data/pdf_diff_latest/diff/page-4.png"
+    },
+    {
+      "page": 5,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-05.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-05.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 6,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-06.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-06.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 7,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-07.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-07.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 8,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-08.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-08.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 9,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-09.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-09.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 10,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-10.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-10.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 11,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-11.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-11.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 12,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-12.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-12.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 13,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-13.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-13.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 14,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-14.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-14.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 15,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-15.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-15.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 16,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-16.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-16.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 17,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-17.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-17.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 18,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-18.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-18.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 19,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-19.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-19.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    },
+    {
+      "page": 20,
+      "a": "/mnt/data/pdf_diff_latest/render_a/page-20.png",
+      "b": "/mnt/data/pdf_diff_latest/render_b/page-20.png",
+      "changed": false,
+      "pct_changed": 0.0,
+      "bbox": null,
+      "max_channel": 0
+    }
+  ]
+}
